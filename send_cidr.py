@@ -10,7 +10,7 @@ import sys
 URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt"
 EMAIL_TO = "priborio@yandex.ru"
 EMAIL_FROM = "pribor.expert@yandex.ru"
-EMAIL_PASSWORD = "sjguxapkndsjibmv"
+EMAIL_PASSWORD = "trnjovgpiufevshe"
 
 def download_file():
     try:
