@@ -9,7 +9,7 @@ import sys
 # В GitHub Actions они будут заменены на секреты
 URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt"
 EMAIL_TO = "priborio@yandex.ru"
-EMAIL_FROM = "priborio@yandex.ru"
+EMAIL_FROM = "pribor.expert@yandex.ru"
 EMAIL_PASSWORD = "sjguxapkndsjibmv"
 
 def download_file():
